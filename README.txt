@@ -4,10 +4,7 @@ This is the first file in the repo
 
 ## Ipsum
 
-sdjklsjdlkaldf
-sadfjlaskjfkldsa
-sdjfklsafja
-sdflksjf
+1. index.html
 
 ## Testing
 
